@@ -128,7 +128,7 @@ body{
     color:rgb(236, 203, 245);
 }
 .navbar-brand:hover{
-    text-decoration: none;
+    text-decoration: none; 
     color: black;
     background:rgb(236, 203, 245);
     transition: ease-in-out 1s ;
@@ -261,9 +261,10 @@ body{
 .website-p{
     padding: 1em;
     color:black;
-    text-align: justify;
+    text-align: left;
     font-size: 22px;
     justify-content: center;
+    margin-left: -15px;
     align-items: center;
     margin-bottom: 10px;
     border-radius: 10px;
