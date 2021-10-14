@@ -71,7 +71,7 @@ body{
 .img-above{
     border-radius: 100%;
     width: 40px;
-    height: 40px;
+    height: 40px; 
     float: left;
     top: 250px;
     position: relative;
@@ -264,7 +264,6 @@ body{
     text-align: left;
     font-size: 22px;
     justify-content: center;
-    margin-left: -15px;
     align-items: center;
     margin-bottom: 10px;
     border-radius: 10px;
