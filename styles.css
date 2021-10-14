@@ -75,7 +75,7 @@ body{
     float: left;
     top: 250px;
     position: relative;
-    left: 70px;
+    left: 40px;
     animation: 5s rotater infinite linear;
 }
 
@@ -262,6 +262,7 @@ body{
     padding: 1em;
     color:black;
     text-align: left;
+    margin-left: 10px;
     font-size: 19px;
     word-spacing: 7px;
     justify-content: center;
