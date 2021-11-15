@@ -232,7 +232,7 @@ body{
 
 /*-------Banner section-----------*/
 #banner{
-    background: #e0bfe0;
+    background: #e9dae9;
     background:cover;
     margin-left:-35px;
     color:rgb(236, 203, 245);
@@ -337,10 +337,13 @@ body{
     box-shadow: 2px 2px 2px 2px;
     transition: 1s ease-in-out;
 }
-
-.slide img{
-    width: 200px;
-    height: 400px;
+.lateSlide{
+    width: 70%;
+    height: 300px;
+}
+.slideImages{
+    width: 220px;
+    height: 300px;
 }
 .slide img:hover{
     transition: 1s ease-in-out;
@@ -353,6 +356,7 @@ body{
 }
 .btn{
      margin-bottom: 25px;
+     padding: 0.5em !important;
     }
 .btn a{
     padding: 1em;
@@ -378,7 +382,7 @@ body{
     color: black;
 }
 .buttons{
-    padding: 1em;
+    padding: 0.5em !important;
     border: none;
     background-image: linear-gradient(to right, rgb(95, 93, 93), rgb(223, 164, 240));
     border-radius: 5px;
