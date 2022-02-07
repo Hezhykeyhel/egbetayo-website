@@ -16,6 +16,7 @@
     left: 0;
     z-index: 9999;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
   }
@@ -112,14 +113,12 @@ body{
 }
 /* Navbar redesigned */
 .navbar{
-    margin: 0;
+    margin: 0 !important;
     position: fixed;
-    top: 0;
+    top: 0 !important;
     background: black;
     background-blend-mode:soft-light;
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top;
     color: rgb(236, 203, 245);
     font-weight: bold;
     text-transform:uppercase;
@@ -345,6 +344,10 @@ body{
     width: 220px;
     height: 300px;
 }
+.slideImagesH{
+    width: 350px;
+    height: 300px;
+}
 .slide img:hover{
     transition: 1s ease-in-out;
     cursor: pointer;
@@ -352,6 +355,7 @@ body{
 .slide{
     color: black;
     font-size: 18px;
+    object-fit: cover;
     margin-left: 40px;
 }
 .btn{
