@@ -232,7 +232,7 @@ body{
 /*-------Banner section-----------*/
 #banner{
     background-color: #FCFCFC;
-    background-image: linear-gradient(180deg, #FCFCFC 0%, #f5e3e6 74%);
+    background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.2) 74%);
     background:cover;
     margin-left:-35px;
     color:rgb(236, 203, 245);
