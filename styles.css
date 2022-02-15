@@ -116,7 +116,7 @@ body{
     margin: 0 !important;
     position: fixed;
     top: 0 !important;
-    background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.29) 74%);
+    background-image: linear-gradient(90deg, #FCFCFC 0%, rgba(0, 0, 0, 0.39) 74%);
     background-blend-mode:soft-light;
     background-repeat: no-repeat;
     color: black;
@@ -188,7 +188,7 @@ body{
     transform: rotate(0);
 }
 .navbar-toggler.collapsed .toggler-icon{
-    background-color: rgb(236, 203, 245);
+    background-color: black;
 }
 /*----Touch Slider-------*/
   .home_blob-img{
