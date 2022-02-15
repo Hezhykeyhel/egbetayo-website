@@ -119,7 +119,7 @@ body{
     background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.29) 74%);
     background-blend-mode:soft-light;
     background-repeat: no-repeat;
-    color: rgb(236, 203, 245);
+    color: black;
     font-weight: bold;
     text-transform:uppercase;
 }
