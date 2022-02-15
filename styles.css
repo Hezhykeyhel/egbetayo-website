@@ -167,8 +167,7 @@ body{
 .navbar-toggler .top-bar{
     transform: rotate(45deg);
     transform-origin: 10% 10%;
-    background: black;
-    color: black;
+    background: white;
 }
 .navbar-toggler .middle-bar{
     opacity: 0;
@@ -177,8 +176,7 @@ body{
 .navbar-toggler .bottom-bar{
     transform: rotate(-45deg);
     transform-origin: 10% 10%;
-    background: black;
-    color: black;
+    background: white;
 }
 /* when navbar closes */
 .navbar-toggler.collapsed .top-bar{
