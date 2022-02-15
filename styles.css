@@ -116,7 +116,7 @@ body{
     margin: 0 !important;
     position: fixed;
     top: 0 !important;
-    background: black;
+    background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.29) 74%);
     background-blend-mode:soft-light;
     background-repeat: no-repeat;
     color: rgb(236, 203, 245);
@@ -129,7 +129,7 @@ body{
 .navbar-brand:hover{
     text-decoration: none; 
     color: black;
-    background:rgb(236, 203, 245);
+    background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.29) 74%);
     transition: ease-in-out 1s ;
   }
 .nav-link{
@@ -139,7 +139,7 @@ body{
 }
 .nav-link:hover{
     color: rgb(0, 0, 0);
-    background:rgb(236, 203, 245);
+    background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.19) 74%);
     transform: translateY(-5px);
     transition: 1s ease-in-out;
 
@@ -155,7 +155,7 @@ body{
 .toggler-icon{
     width:30px;
     height: 3px;
-    background-color: rgb(232, 192, 243);
+    background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.35) 74%
     display: block;
     transition: all 0.5s;
 }
@@ -376,13 +376,13 @@ body{
 }
 .btn:hover{
     text-decoration: none;
-    background: #e0bfe0;
+    background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.39) 74%);
     transition: ease-in-out 1s;
     transform: translateY(-8px);
 }
 .btn a:hover{
     text-decoration: none;
-    background: #e0bfe0;
+    background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.39) 74%);
     translate: ease-in-out 1s;
     color: black;
 }
@@ -396,7 +396,7 @@ body{
     color: black;
 }
 .buttons:hover{
-    background: #e0bfe0;
+    background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.39) 74%);
     transition: ease-in-out 1s;
     transform: translateY(-8px);
 
@@ -417,7 +417,7 @@ border-radius: 3px;
 animation: bounce 3.5s ease-in-out infinite;
 }
 span a:hover{
-    color: white;
+    color: black;
     cursor: pointer;
     transition: ease-in-out .2s;
 }
