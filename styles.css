@@ -117,7 +117,7 @@ body{
     position: fixed;
     top: 0 !important;
     background: rgba(0, 0, 0, 0.78);
-    box-shadow: 2px 3px 4px 5px rgba(0, 0, 0, 0.78);
+    box-shadow: 2px 7px 7px 5px rgba(0, 0, 0, 0.78);
     background-repeat: no-repeat;
     color: pink;
     font-weight: bold;
@@ -365,9 +365,9 @@ body{
 }
 .btn{
      margin-bottom: 25px;
-     padding: 0.5em !important;
     }
 .btn a{
+    padding: 1em !important;
     border-radius: 5px;
     text-transform: uppercase;
     background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.15) 74%);
