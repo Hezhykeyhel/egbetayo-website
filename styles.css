@@ -231,7 +231,7 @@ body{
 
 /*-------Banner section-----------*/
 #banner{
-    background: #e9dae9;
+    background: linear-gradient (to top, #FCFCFC #e9dae9);
     background:cover;
     margin-left:-35px;
     color:rgb(236, 203, 245);
