@@ -191,7 +191,7 @@ body{
     transform: rotate(0);
 }
 .navbar-toggler.collapsed .toggler-icon{
-    background-color: black;
+    background-color: white;
 }
 /*----Touch Slider-------*/
   .home_blob-img{
