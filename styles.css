@@ -117,6 +117,7 @@ body{
     position: fixed;
     top: 0 !important;
     background: rgba(0, 0, 0, 0.78);
+    box-shadow: 2px 3px 4px 7px #FDFDFD;
     background-repeat: no-repeat;
     color: pink;
     font-weight: bold;
