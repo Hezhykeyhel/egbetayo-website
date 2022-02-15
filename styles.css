@@ -152,9 +152,9 @@ body{
     text-decoration: none;
 }
 .toggler-icon{
-    width:30px;
+    width:32px;
     height: 4px;
-    color: black;
+    color: white;
     font-weight: bold;
     display: block;
     transition: all 0.5s;
