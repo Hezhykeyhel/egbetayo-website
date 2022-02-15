@@ -344,10 +344,22 @@ body{
 .lateSlide{
     width: 70%;
     height: 300px;
+    border-radius: 20px;
+    filter: grayscale(100%);
 }
+.lateSlide:hover{
+    filter: grayscale(0%);
+    transition: ease-in-out all .4s;
+}
+
 .slideImages{
     width: 220px;
     height: 300px;
+    filter: grayscale(100%);
+}
+.slideImages:hover{
+    filter: grayscale(0%);
+    transition: ease-in-out all .4s;
 }
 .slideImagesH{
     width: 300px;
