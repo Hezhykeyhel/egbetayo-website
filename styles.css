@@ -116,14 +116,14 @@ body{
     margin: 0 !important;
     position: fixed;
     top: 0 !important;
-    background-image: linear-gradient(312deg, #F9F9F9 26%, rgba(0, 0, 0, 0.6) 74%);
+    background-image: linear-gradient(312deg, #F9F9F9 0%, rgba(0, 0, 0, 0) 74%);
     background-repeat: no-repeat;
     color: pink;
     font-weight: bold;
     text-transform:uppercase;
 }
 .navbar-brand{
-    color:black;
+    color: purple;
 }
 .navbar-brand:hover{
     text-decoration: none; 
@@ -167,6 +167,8 @@ body{
 .navbar-toggler .top-bar{
     transform: rotate(45deg);
     transform-origin: 10% 10%;
+    background: black;
+    color: black;
 }
 .navbar-toggler .middle-bar{
     opacity: 0;
