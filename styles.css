@@ -116,7 +116,7 @@ body{
     margin: 0 !important;
     position: fixed;
     top: 0 !important;
-    background-image: linear-gradient(312deg, #FCFCFC 0%, rgba(0, 0, 0, 0.6) 74%);
+    background-image: linear-gradient(202deg, #FCFCFC 26%, rgba(0, 0, 0, 0.6) 74%);
     background-repeat: no-repeat;
     color: pink;
     font-weight: bold;
@@ -153,8 +153,9 @@ body{
 }
 .toggler-icon{
     width:30px;
-    height: 3px;
-    background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.35) 74%);
+    height: 5px;
+    color: black;
+    font-weight: bold;
     display: block;
     transition: all 0.5s;
 }
