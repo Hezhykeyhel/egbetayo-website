@@ -124,7 +124,7 @@ body{
     text-transform:uppercase;
 }
 .navbar-brand{
-    color:rgb(236, 203, 245);
+    color:black;
 }
 .navbar-brand:hover{
     text-decoration: none; 
@@ -133,7 +133,7 @@ body{
     transition: ease-in-out 1s ;
   }
 .nav-link{
-    color: rgb(236, 203, 245);
+    color: black;
     text-decoration: none;
     list-style: none;
 }
