@@ -116,6 +116,7 @@ body{
     margin: 0 !important;
     position: fixed;
     top: 0 !important;
+    filter:blur(7px);
     background: rgba(0, 0, 0, 0.78);
     box-shadow: 2px 8px 9px 5px rgba(0, 0, 0, 0.78);
     background-repeat: no-repeat;
