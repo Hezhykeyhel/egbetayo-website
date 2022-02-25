@@ -116,7 +116,7 @@ body{
     margin: 0 !important;
     position: fixed;
     top: 0 !important;
-    background: rgba(0, 0, 0, 0.78);
+    background: rgba(0, 0, 0, 0.88);
     box-shadow: 2px 8px 9px 5px rgba(0, 0, 0, 0.78);
     background-repeat: no-repeat;
     color: pink;
@@ -235,12 +235,13 @@ body{
 
 /*-------Banner section-----------*/
 #banner{
-    background-color: #FCFCFC;
     background-image: linear-gradient(180deg, #C5D5CB 0%, rgba(0, 0, 0, 0.35) 74%);
     background:cover;
     margin-left:-35px;
     color:rgb(236, 203, 245);
     padding-top: 30px;
+    margin-top: 0;
+     
     justify-content:center;
 }
 .wave3-top{
