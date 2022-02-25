@@ -343,7 +343,7 @@ body{
     width: 70%;
     height: 300px;
     border-radius: 20px;
-    filter: grayscale(100%);
+    filter: grayscale(40%);
 }
 .lateSlide:hover{
     filter: grayscale(0%);
@@ -353,7 +353,7 @@ body{
 .slideImages{
     width: 220px;
     height: 300px;
-    filter: grayscale(100%);
+    filter: grayscale(40%);
 }
 .slideImages:hover{
     filter: grayscale(0%);
