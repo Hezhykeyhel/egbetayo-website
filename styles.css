@@ -116,8 +116,8 @@ body{
     margin: 0 !important;
     position: fixed;
     top: 0 !important;
-    background: rgba(0, 0, 0, 0.88);
-    box-shadow: 2px 8px 9px 5px rgba(0, 0, 0, 0.78);
+    background-image: linear-gradient(180deg, #C5D5CB 0%, rgba(0, 0, 0, 0.35) 74%);
+    box-shadow: 2px 2px 4px 5px rgba(0, 0, 0, 0.78);
     background-repeat: no-repeat;
     color: pink;
     font-weight: bold;
@@ -239,9 +239,7 @@ body{
     background:cover;
     margin-left:-35px;
     color:rgb(236, 203, 245);
-    padding-top: 30px;
-    margin-top: 0;
-     
+    padding-top: 30px;    
     justify-content:center;
 }
 .wave3-top{
