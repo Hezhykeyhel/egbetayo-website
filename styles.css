@@ -10,7 +10,7 @@
 .d-flex{
     width: 100%;
     height: 100%;
-    background-color: #000000;
+    background-image: linear-gradient(180deg, #C5D5CB 0%, rgba(0, 0, 0, 0.45) 84%);
     position: absolute;
     top: 0;
     left: 0;
@@ -236,7 +236,7 @@ body{
 /*-------Banner section-----------*/
 #banner{
     background-color: #FCFCFC;
-    background-image: linear-gradient(180deg, #FCFCFC 0%, rgba(0, 0, 0, 0.35) 74%);
+    background-image: linear-gradient(180deg, #C5D5CB 0%, rgba(0, 0, 0, 0.35) 74%);
     background:cover;
     margin-left:-35px;
     color:rgb(236, 203, 245);
